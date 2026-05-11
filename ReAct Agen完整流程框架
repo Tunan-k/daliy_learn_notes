@@ -1,0 +1,9 @@
+### Agent 用 Serper API ###
+Python 程序把关键词发给 Serper
+↓
+Serper 帮你去查 Google 搜索结果
+↓
+返回结构化 JSON 数据
+↓
+Agent 从中取出摘要、标题、链接等信息
+
